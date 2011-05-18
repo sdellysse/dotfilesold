@@ -1,0 +1,19 @@
+# Discard by default
+/*
+
+# Don't discard the gitignore
+!.gitignore
+
+# Vim Configuration
+!.vim
+!.vimrc
+!.gvimrc
+
+# Shell Configuration
+!.bashrc
+!.bash_profile
+
+# X Configuration
+!.Xdefaults
+!.xinitrc
+!.xsession
