@@ -1,5 +1,6 @@
 #!/bin/sh
 source $HOME/.bashrc
+xrandr --output DVI-I-1 --rotate left
 xrandr --output DVI-I-2 --right-of DVI-I-1
 #common setup
 #(

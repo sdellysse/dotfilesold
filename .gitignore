@@ -6,6 +6,7 @@
 
 # Vim Configuration
 !.vim
+.vim/.netrwhist
 !.vimrc
 !.gvimrc
 
